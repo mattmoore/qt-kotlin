@@ -8,4 +8,4 @@ Currently, I am targeting Qt 5.
 
 ## Project State
 
-I am just starting this out. Theres' a long road ahead.
+I am just starting this out. It's a long road ahead.
